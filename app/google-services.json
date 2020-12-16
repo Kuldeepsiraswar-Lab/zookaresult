@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "57790503363",
+    "project_id": "zooka-news",
+    "storage_bucket": "zooka-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57790503363:android:1f0bdffb5d7d1e1bbf4576",
+        "android_client_info": {
+          "package_name": "com.kuldeep.zookanews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57790503363-4d3o4ns59p52oae4n3g2gn3636l6e89i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuldeep.zookanews",
+            "certificate_hash": "4f08b2740350afeaaf6890cfe0ae5747a488ff82"
+          }
+        },
+        {
+          "client_id": "57790503363-kt4qjea57ed5cgqpqodd2fu4qklqb4ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBama3xdrvTO19YNP6y3IXtvUL4XcLrayI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57790503363-kt4qjea57ed5cgqpqodd2fu4qklqb4ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57790503363:android:8eaae00788f7c7dbbf4576",
+        "android_client_info": {
+          "package_name": "com.kuldeep.zookaresult"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57790503363-kt4qjea57ed5cgqpqodd2fu4qklqb4ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBama3xdrvTO19YNP6y3IXtvUL4XcLrayI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57790503363-kt4qjea57ed5cgqpqodd2fu4qklqb4ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

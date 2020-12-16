@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zooka Result</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="action_settings">Setting</string>
+    <string name="developed_by_kuldeep_siraswar">Developed By:- Kuldeep Siraswar</string>
+    <string name="button_text">Enable</string>
+    <string name="data_on_message"><![CDATA[Please Check Your Internet Connection & Please Turn On Your data Connection]]></string>
+    <string name="no_internet_connection_available">No Internet connection Available</string>
+    <string name="oops">Oops</string>
+</resources>
